@@ -13,6 +13,7 @@
   margin-top: 10%;
   height: 90%;
   margin-bottom: 8%;
+  object-fit: cover;
 }
 .guy{
   width: 95%;
@@ -20,6 +21,7 @@
   margin-top: 10%;
   height: 90%;
   margin-bottom: 8%;
+  object-fit: cover;
   
 }
 .robo{
@@ -35,6 +37,7 @@
   width: 90%;
   height: 80%;
   margin-right: 25%;
+   object-fit: cover;
 
 }
 .tit2{
@@ -52,11 +55,13 @@
   margin-top: 22%;
   margin-left: 12%;
   margin-bottom: -20%;
+  object-fit: cover;
 }
 .brain{
   width: 90%;
   height: 95%;
   margin-top: 8%;
+  object-fit: cover;
 }
 .mind{
   width: 95%;
@@ -64,6 +69,7 @@
   margin-top: 10%;
   height: 90%;
   margin-bottom: 8%;
+  object-fit: cover;
 }
 .spat{
   margin-top: 2%;
@@ -127,6 +133,7 @@
   margin-left: 14%;
   height: 80%;
   width: 90%;
+  object-fit: cover;
   margin-top: 10%;
 }
 .sche{
@@ -134,12 +141,14 @@
   margin-left: 8%;
   height: 80%;
   width: 90%;
+  object-fit: cover;
 }
 .sche2{
   margin-right: 18%;
   margin-left: 5%;
   height: 80%;
   width: 90%;
+   object-fit: cover;
   margin-top: 8%;
   margin-bottom: 8%;
 }
